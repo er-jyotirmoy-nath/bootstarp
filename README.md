@@ -1,1 +1,1 @@
-"# bootstrap code snippets" 
+# bootstrap code snippets
